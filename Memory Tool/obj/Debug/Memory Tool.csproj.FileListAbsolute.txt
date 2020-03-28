@@ -1,0 +1,10 @@
+C:\Users\mm\source\repos\Memory Tool\Memory Tool\bin\Debug\Memory Tool.exe.config
+C:\Users\mm\source\repos\Memory Tool\Memory Tool\bin\Debug\Memory Tool.exe
+C:\Users\mm\source\repos\Memory Tool\Memory Tool\bin\Debug\Memory Tool.pdb
+C:\Users\mm\source\repos\Memory Tool\Memory Tool\obj\Debug\Memory Tool.csprojAssemblyReference.cache
+C:\Users\mm\source\repos\Memory Tool\Memory Tool\obj\Debug\Memory_Tool.Form1.resources
+C:\Users\mm\source\repos\Memory Tool\Memory Tool\obj\Debug\Memory_Tool.Properties.Resources.resources
+C:\Users\mm\source\repos\Memory Tool\Memory Tool\obj\Debug\Memory Tool.csproj.GenerateResource.cache
+C:\Users\mm\source\repos\Memory Tool\Memory Tool\obj\Debug\Memory Tool.exe
+C:\Users\mm\source\repos\Memory Tool\Memory Tool\obj\Debug\Memory Tool.pdb
+C:\Users\mm\source\repos\Memory Tool\Memory Tool\obj\Debug\Memory_Tool.Form2.resources

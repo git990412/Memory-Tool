@@ -1,0 +1,9 @@
+C:\Users\mm\source\repos\Memory Tool\Memory Tool\bin\Release\Memory Tool.exe.config
+C:\Users\mm\source\repos\Memory Tool\Memory Tool\bin\Release\Memory Tool.exe
+C:\Users\mm\source\repos\Memory Tool\Memory Tool\bin\Release\Memory Tool.pdb
+C:\Users\mm\source\repos\Memory Tool\Memory Tool\obj\Release\Memory_Tool.Form1.resources
+C:\Users\mm\source\repos\Memory Tool\Memory Tool\obj\Release\Memory_Tool.Form2.resources
+C:\Users\mm\source\repos\Memory Tool\Memory Tool\obj\Release\Memory_Tool.Properties.Resources.resources
+C:\Users\mm\source\repos\Memory Tool\Memory Tool\obj\Release\Memory Tool.csproj.GenerateResource.cache
+C:\Users\mm\source\repos\Memory Tool\Memory Tool\obj\Release\Memory Tool.exe
+C:\Users\mm\source\repos\Memory Tool\Memory Tool\obj\Release\Memory Tool.pdb
